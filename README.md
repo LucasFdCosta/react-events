@@ -4,6 +4,8 @@
 
 React Events is a small full-stack event management application built with React for the frontend and Node.js/Express for the backend. It uses the `@tanstack/react-query` lib to handle the result of HTTP requests and caching data.
 
+This project was built during a React online course.
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
